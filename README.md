@@ -4,15 +4,6 @@
 
 Este proyecto es un **Análisis Exploratorio de Datos (EDA)** completo y sistemático sobre un dataset que contiene información diversa de estudiantes y su desempeño académico, medido por la **Nota del Examen Final (`Exam_Score`)**. El objetivo central es descubrir y comprender los factores más influyentes en el rendimiento estudiantil, explorando variables clasificadas en áreas clave como el estudio, el entorno social y educativo, el bienestar personal y las condiciones socioeconómicas. A través de visualizaciones detalladas y un análisis crítico, este informe presenta los *insights* clave obtenidos.
 
-## 🎯 Motivación y Objetivos
-
-Como analista de datos en formación, con la ambición de convertirme en científico de datos y con planes de postular a una maestría en Data Science en la Universidad Nacional de Ingeniería en Perú, este proyecto representa un pilar fundamental en mi ruta de aprendizaje. Los objetivos específicos que impulsaron este trabajo fueron:
-
-* **Aplicación Práctica:** Consolidar mis habilidades en la manipulación, limpieza, transformación y visualización de datos utilizando el ecosistema de Python (Pandas, Matplotlib, Seaborn).
-* **Generación de *Insights* Accionables:** Identificar patrones, tendencias y correlaciones significativas que no solo expliquen el rendimiento académico, sino que también puedan informar futuras intervenciones educativas o decisiones de políticas.
-* **Desarrollo del Pensamiento Crítico:** Ejercitar la capacidad de interpretar gráficos de manera matizada, justificar las decisiones de visualización (por ejemplo, la elección entre `barplot` y `stripplot`), y extraer conclusiones sólidas basadas en la evidencia de los datos.
-* **Construcción de un Portafolio:** Crear un proyecto bien documentado y reproducible que demuestre mis capacidades en el análisis de datos a futuros empleadores o instituciones académicas.
-
 ## 🛠️ Metodología y Enfoque
 
 El desarrollo de este análisis siguió un proceso estructurado para asegurar la robustez y fiabilidad de los hallazgos:
