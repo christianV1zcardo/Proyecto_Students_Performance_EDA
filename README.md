@@ -109,7 +109,7 @@ Para el **rendimiento excepcional** (notas superiores a 80-85, consideradas rara
 * **Sesiones de Tutoría:** Un mayor número de sesiones de tutoría parece ser un factor que contribuye a que los estudiantes alcancen las notas más altas, especialmente en combinación con un estudio dedicado.
 
 Es importante destacar que, en este dataset, el **Tipo de Escuela (Pública/Privada)** no mostró un impacto significativo en la `Exam_Score` promedio, lo cual es un hallazgo valioso que desafía suposiciones comunes.
-
+ 
 Este análisis ha proporcionado una base sólida de comprensión del dataset, sirviendo como un excelente punto de partida para futuros modelos predictivos o análisis inferenciales que busquen cuantificar aún más el impacto de estos factores.
 
 ## 🛠️ Tecnologías Utilizadas
